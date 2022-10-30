@@ -1,5 +1,5 @@
 # bloggerRelated
-> Poderoso plugins para agregar entradas relacionadas en blogger de forma rápida y personalizable.
+> Poderoso plugin para agregar entradas relacionadas en blogger de forma rápida y personalizable.
 
 ## Documentación
 > En proceso... 😅
