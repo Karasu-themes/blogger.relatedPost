@@ -1,5 +1,5 @@
 /*!
-* blogger.relatedPost 0.1.16
+* blogger.relatedPost 0.1.0
 * https://github.com/Karasu-themes/bloggerRelatedPost
 *
 * Copyright © 2022 MarceloTLD
